@@ -1,10 +1,11 @@
-name: Update Collection
+name: Update the Collection
 
 on:
   workflow_dispatch:
 
 jobs:
   update:
+    name: Run the Update Collection Action
     runs-on: ubuntu-latest
     steps:
       - name: Run Action to Update Collection
