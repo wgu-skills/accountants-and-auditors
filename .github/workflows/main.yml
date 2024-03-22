@@ -7,7 +7,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: wgu-skills/updater@main
+      - name: Run Action to Update Collection
+        uses: wgu-skills/updater@main
         with:
           skillCollectionUrl: 'https://osmt.wgu.edu/api/collections/1db79be3-ff33-4114-8449-e151aa9e6b25'
+          patToken: ${{ secrets.GH_PAT}}
