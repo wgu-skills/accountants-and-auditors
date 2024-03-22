@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update_collection:
+  update:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
