@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Use Org Level Update Action
-      uses: wgu-skills/.github/workflows/update-collection@main
+      uses: wgu-skills/.github/.github/workflows/update-collection@main
 
 env:
   SKILL_COLLECTION_URL: https://osmt.wgu.edu/api/collections/1db79be3-ff33-4114-8449-e151aa9e6b25
