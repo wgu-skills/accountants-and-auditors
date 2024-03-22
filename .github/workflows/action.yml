@@ -7,9 +7,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Use Org Level Update Action
-      uses: wgu-skills/updater/.github/workflows/update-collection@main
+      - uses: actions/checkout@v2
+      - uses: wgu-skills/updater@main
+      
 
 env:
   SKILL_COLLECTION_URL: https://osmt.wgu.edu/api/collections/1db79be3-ff33-4114-8449-e151aa9e6b25
