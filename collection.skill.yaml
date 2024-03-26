@@ -1,8 +1,8 @@
 type: RichSkillCollection
+creationDate: '2022-11-28T22:15:55.95894Z'
 name: Accountants and Auditors_Dec.2022
 id: https://osmt.wgu.edu/api/collections/1db79be3-ff33-4114-8449-e151aa9e6b25
 owner: ''
-creationDate: '2022-11-28T22:15:55.95894Z'
 description: >-
   This Collection represents the skills necessary for professionals responsible
   for all preparation and examination of financial documents, reports, or
@@ -13,7 +13,6 @@ description: >-
   partnership with a panel of subject matter experts who have worked as
   Accountants and Auditors.
 status: published
-uuid: 1db79be3-ff33-4114-8449-e151aa9e6b25
 skills:
   - id: https://osmt.wgu.edu/api/skills/e703c2bc-ac14-441f-aeeb-6a014c054bdd
     uuid: e703c2bc-ac14-441f-aeeb-6a014c054bdd
@@ -80874,11 +80873,12 @@ skills:
       - code: 13-2011.00
         targetNodeName: Accountants and Auditors
         frameworkName: o*net
+author: Western Governors University
 creator: >-
   https://credentialengineregistry.org/resources/ce-036d082d-d80e-41a7-99a0-2d63a4ad3a4a
+uuid: 1db79be3-ff33-4114-8449-e151aa9e6b25
 updateDate: '2023-04-26T18:22:33.730305Z'
 publishDate: '2023-01-13T00:09:10.723739Z'
 archiveDate: null
-author: Western Governors University
 '@context': https://rsd.openskillsnetwork.org/context-v1.json
 slug: ''
