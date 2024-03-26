@@ -17,4 +17,3 @@ jobs:
           gitOrg: 'wgu-skills'
           gitUsername: 'David Petersen'
           gitEmail: 'david.petersen@wgu.edu'
-          patToken: ${{ secrets.GH_PAT}}
