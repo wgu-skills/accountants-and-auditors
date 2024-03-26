@@ -17,3 +17,4 @@ jobs:
           gitOrg: 'wgu-skills'
           gitUsername: 'David Petersen'
           gitEmail: 'david.petersen@wgu.edu'
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
