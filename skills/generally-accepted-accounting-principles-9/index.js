@@ -1,1 +1,0 @@
-import internationalFinancialReportingStandardsIfrsAndUsGenerallyAcceptedAccountingPrinciplesGaapDifferencesImpactOnFinancialStatementsDetermination from './international-financial-reporting-standards-ifrs-and-us-generally-accepted-accounting-principles-gaap-differences-impact-on-financial-statements-determination.skill.json';
